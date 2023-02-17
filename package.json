@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-shidp",
+  "version": "0.0.1",
+  "description": "ESLint Config for shidp dev team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShidpOpenSource/eslint-config-shidp.git"
+  },
+  "keywords": [
+    "eslint",
+    "shidp"
+  ],
+  "author": "gejf@shidp.com.cn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShidpOpenSource/eslint-config-shidp/issues"
+  },
+  "homepage": "https://github.com/ShidpOpenSource/eslint-config-shidp#readme"
+}
